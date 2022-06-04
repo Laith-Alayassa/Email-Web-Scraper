@@ -1,6 +1,9 @@
 # Email-Web-Scraper
-Scrapes the web for names from all names in a CSV file
+
 ![email scraper](https://user-images.githubusercontent.com/60319236/171977762-9cd5b0dc-6aeb-45b5-8a8e-a4aae7538a86.png)
+
+
+Scrapes the web for names from all names in a CSV file
 
 # Things I've learned
 1. Using pandas to read and write data to CSV files
